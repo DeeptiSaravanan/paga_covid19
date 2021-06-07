@@ -1,4 +1,4 @@
-# paga_covid19
+# Single-cell sequencing - PAGA on COVID-19 Data
 
 Computational Biology is the science of developing algorithms and training mathematical models to capture and analyze the different kinds of interconnections in biological data that might easily miss human eyes.
 
