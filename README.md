@@ -15,4 +15,6 @@ The PAGA paper could be found here: https://genomebiology.biomedcentral.com/arti
 Link to the single-cell sequencing two-part series:
 
 Part 1 (Theory and Concepts) - http://bit.ly/trn-rna-seq
-Part 2 (Implementation) - 
+Part 2 (Implementation) - http://bit.ly/trn-rna-seq-2
+
+
