@@ -8,7 +8,7 @@ Given a biological data, various recently proposed models use statistical concep
 
 This repository contains the code (paga) and the COVID-19 data used for the implementation. 
 
-The PAGA cource code could be found here: https://github.com/theislab/paga
+The PAGA source code could be found here: https://github.com/theislab/paga
 
 The PAGA paper could be found here: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x
 
